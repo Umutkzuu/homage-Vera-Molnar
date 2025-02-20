@@ -1,7 +1,7 @@
-# Grid Sphere Animation
+# Homage Vera Molnar 1
 
 ## 📌 Description
-This Processing sketch creates a dynamic **3D grid of rotating spheres**, set against a deep blue background with an overlaid grid pattern. Each sphere is positioned with slight randomness to create an organic, ever-changing effect.
+Homage Vera Molnar 1 is a generative artwork inspired by Vera Molnar's "1% disorder" algorithm and her iconic plotter-based artworks. This piece pays tribute to her pioneering exploration of controlled randomness in computational art. The artwork is created using Processing and follows a grid-based structure where elements are slightly offset to introduce subtle irregularities. This is part of my ongoing exploration of generative art and algorithmic aesthetics.
 
 ## 🚀 Features
 - **Dynamic 3D Animation**: Rotating spheres create a hypnotic motion effect.
