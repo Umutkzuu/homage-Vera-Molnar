@@ -1,11 +1,11 @@
 color[] colArray = {
-  color(255,255,255), //white
-  color(200,5,20),  //red
-  color(55,188,25),  //green
-  color(15,35,250),  //blue
-  color(125,235,250),  //light blue
-  color(240,245,15),   //yellow 
-  color(160,60,235),  //purple
+  color(255,255,255), 
+  color(200,5,20),  
+  color(55,188,25),  
+  color(15,35,250),  
+  color(125,235,250),  
+  color(240,245,15),   
+  color(160,60,235),  
 
 };
 
